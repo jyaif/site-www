@@ -132,7 +132,7 @@ import 'package:js/js.dart' as JS;
 
 ### DO name other identifiers using `lowerCamelCase`.
 
-Class members, top-level definitions, variables, parameters, and named
+Class members (including methods, getters, setters and constructors), top-level definitions, variables, parameters, and named
 parameters should capitalize the first letter of each word *except* the first
 word, and use no separators.
 
